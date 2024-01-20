@@ -1,2 +1,2 @@
 # Player
-Media Player
+Feature of Installation
